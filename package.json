@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-source-tipe",
+  "version": "0.0.1",
+  "description": "gatsby plugin for sourcing data from tipe io",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Austin Lanari <austin.lanari@gmail.com",
+  "license": "MIT"
+}
